@@ -1,4 +1,4 @@
-# Moodle Coding Style
+# Moodle Coding Style - Test
 
 <div aria-hidden="true">
 
